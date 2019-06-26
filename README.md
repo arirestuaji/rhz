@@ -1,7 +1,14 @@
 # rhz
 
-$ unzip rhie.zip
-$ cd rhie
-$ run
+Ekstrak dulu!
 
-    >///<
+    $ unzip rhie.zip
+
+Pindah ke folder 'rhie'
+
+    $ cd rhie
+
+Tinggal run..
+
+
+:3
